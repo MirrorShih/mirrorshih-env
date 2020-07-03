@@ -1,2 +1,2 @@
 FROM mirrorshih/env
-LABEL description="ctf" owner="Mirror"
+LABEL description="ctf" maintainer="Mirror"
